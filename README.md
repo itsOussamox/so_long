@@ -9,4 +9,4 @@ A top down game, where you have to collect all gas cans to escape with an helico
 `./so_long maps/*.ber`
 # PREVIEW
 
-![alt text](https://ibb.co/HTr1Gs4)
+![alt text](https://zupimages.net/up/22/01/ojcx.png)
